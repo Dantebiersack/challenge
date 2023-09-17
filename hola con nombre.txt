@@ -1,0 +1,4 @@
+public class saludo{
+	// esta linea "imprime" en consola
+	system.out.println("Hola Angel");
+}
